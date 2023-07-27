@@ -1,0 +1,40 @@
+.home{
+    height:75vh;
+    display:flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.homecontainer{
+    margin-left:150px;
+    color:white;
+    
+
+}
+.homecontainer h1{
+    font-size:50px;
+}
+.homecontainer p{
+    margin-top:30px;
+    font-size: 20px;
+
+}
+.homecontainer button{
+    margin-top:30px;
+    padding: 20px;
+    font-size:20px;
+    background-color: Maroon;
+    border-radius: 20px;
+    border-style: none;
+    text-decoration: none;
+}
+.homecontainer button:hover{
+    background-color: white;
+    
+}
+
